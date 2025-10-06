@@ -205,3 +205,11 @@
           "NSPhotoLibraryAddUsageDescription": "App needs access to Photos to save videos or pictures you created.",
           "NSCalendarsUsageDescription": "Advertisement would like to create a calendar event.",
           "NSMicrophoneUsageDescription": "Tom needs microphone access in order to hear you and repeat after you!",
+"NSPhotoLibraryUsageDescription": "App needs access to Photos to save videos or pictures you created."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
